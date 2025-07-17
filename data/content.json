@@ -1,0 +1,160 @@
+{
+  "hero": {
+    "title": "Critter Mahjong Solitaire",
+    "description": "Join a group of happy jungle animals as you match cute animal tiles in this relaxing and fun puzzle game. Pair them up and complete each level before time runs out. If you get stuck, you can use hints to help. Finishing a level unlocks new challenges and keeps the fun going!",
+    "buttonText": "Play Now"
+  },
+  "features": [
+    {
+      "icon": "🦁",
+      "title": "Cute Animal Tiles",
+      "description": "Match adorable jungle animals including lions, elephants, monkeys, and more in beautifully designed tile sets."
+    },
+    {
+      "icon": "🧩",
+      "title": "Relaxing Gameplay",
+      "description": "Enjoy stress-free puzzle solving with smooth animations and calming background music perfect for unwinding."
+    },
+    {
+      "icon": "💡",
+      "title": "Smart Hints System",
+      "description": "Get helpful hints when you're stuck, making the game accessible for players of all skill levels."
+    },
+    {
+      "icon": "🏆",
+      "title": "Progressive Levels",
+      "description": "Unlock new challenges and difficulty levels as you progress through the game with increasing complexity."
+    },
+    {
+      "icon": "⏰",
+      "title": "Time Management",
+      "description": "Complete levels before time runs out, adding excitement and strategic thinking to your puzzle solving."
+    },
+    {
+      "icon": "🎨",
+      "title": "Beautiful Graphics",
+      "description": "Enjoy stunning visuals with detailed animal designs and vibrant jungle backgrounds throughout the game."
+    }
+  ],
+  "howToPlay": [
+    {
+      "title": "Basic Matching",
+      "description": "Learn the fundamental rules of matching animal tiles to clear the board.",
+      "steps": [
+        "Click on matching animal tiles to pair them up",
+        "Tiles must be the same animal type to match",
+        "Matched tiles disappear from the board",
+        "Clear all tiles to complete the level"
+      ]
+    },
+    {
+      "title": "Game Objectives",
+      "description": "Understand your goals and how to achieve the highest scores in each level.",
+      "steps": [
+        "Complete levels before time runs out",
+        "Use hints when you're stuck on difficult puzzles",
+        "Achieve high scores by matching tiles quickly",
+        "Unlock new levels and challenges as you progress"
+      ]
+    },
+    {
+      "title": "Advanced Strategies",
+      "description": "Learn advanced techniques to master difficult levels and improve your puzzle-solving skills.",
+      "steps": [
+        "Plan your moves ahead to avoid getting stuck",
+        "Focus on clearing tiles that block others",
+        "Use hints strategically on complex layouts",
+        "Practice timing for perfect level completion"
+      ]
+    }
+  ],
+  "mahjong": {
+    "features": [
+      {
+        "icon": "🌿",
+        "text": "Jungle Theme - Immerse yourself in a vibrant jungle environment with exotic animals"
+      },
+      {
+        "icon": "🎯",
+        "text": "Multiple Difficulty Levels - From beginner-friendly to expert challenges for all players"
+      },
+      {
+        "icon": "🌟",
+        "text": "Special Power-ups - Use hints and special tiles to overcome difficult puzzles"
+      },
+      {
+        "icon": "🎵",
+        "text": "Relaxing Soundtrack - Enjoy calming background music that enhances your gaming experience"
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "name": "Emma Wilson",
+      "text": "Absolutely love this game! The animal tiles are so cute and the gameplay is perfectly relaxing. I play it every evening to unwind after work. The hint system is really helpful when I get stuck."
+    },
+    {
+      "name": "David Chen",
+      "text": "Perfect puzzle game for mobile and desktop. The graphics are beautiful and the animal theme is adorable. I've been playing for weeks and still discovering new strategies."
+    },
+    {
+      "name": "Sarah Rodriguez",
+      "text": "Best Mahjong game I've played online. The progressive difficulty keeps me engaged and the time management adds excitement. Highly recommend for puzzle lovers!"
+    },
+    {
+      "name": "Mike Johnson",
+      "text": "Great game for both casual and serious players. The difficulty progression is well-balanced and the animal designs are charming. Love how each level feels unique."
+    }
+  ],
+  "gameUpdates": [
+    {
+      "title": "New Animal Collection Released",
+      "description": "Introducing adorable new animal tiles including pandas, koalas, and tropical birds. Each new animal brings unique visual appeal and strategic gameplay elements.",
+      "date": "March 15, 2025",
+      "fullContent": "We're excited to announce the release of our new animal collection! This major update introduces 15 new adorable animal tiles including pandas, koalas, tropical birds, and exotic jungle creatures. Each new animal has been carefully designed with vibrant colors and charming details that enhance the overall gaming experience. The new collection includes special rare animals that appear less frequently, adding an element of discovery and excitement to each level. We've also updated the background music to include jungle sounds that complement the new animal theme.",
+      "image": "images/lof_new1.jpg"
+    },
+    {
+      "title": "Enhanced Hint System Update",
+      "description": "Improved hint system with multiple hint types and better visual indicators to help players solve complex puzzles more effectively.",
+      "date": "April 10, 2025",
+      "fullContent": "This update focuses on improving the hint system to make the game more accessible and enjoyable for all players. We've introduced three types of hints: basic matching hints, strategic move suggestions, and pattern recognition hints. The new system analyzes the current board state and provides more intelligent suggestions based on the difficulty level. Visual indicators have been enhanced with subtle animations and color coding to make hints more intuitive. We've also added a hint tutorial for new players to help them understand how to use hints effectively.",
+      "image": "images/lof_new2.jpg"
+    },
+    {
+      "title": "New Difficulty Modes Added",
+      "description": "Introducing Relaxed Mode, Challenge Mode, and Expert Mode with unique gameplay mechanics and scoring systems for different player preferences.",
+      "date": "May 5, 2025",
+      "fullContent": "We've expanded our difficulty options with three distinct game modes! Relaxed Mode removes time limits and focuses on peaceful puzzle solving, perfect for unwinding. Challenge Mode introduces time pressure and special obstacles that require strategic thinking. Expert Mode features complex tile arrangements and limited hints for experienced players. Each mode has its own scoring system and unlockable achievements. We've also added mode-specific tutorials and practice levels to help players master each difficulty setting. This update makes the game more accessible to players of all skill levels while maintaining the core Mahjong experience.",
+      "image": "images/lof_new3.jpg"
+    }
+  ],
+  "trailDiaries": [
+    {
+      "title": "Behind the Scenes: Animal Design Process",
+      "description": "Take a look at how we design and create the adorable animal tiles that players love to match.",
+      "date": "March 15, 2025",
+      "fullContent": "Creating the animal tiles for Critter Mahjong Solitaire involves a detailed artistic process that combines cute character design with functional gameplay elements. Our design team starts with extensive research on jungle animals, studying their unique features and behaviors. We then create initial sketches focusing on making each animal instantly recognizable while maintaining a cohesive cute aesthetic. The digital art process involves multiple layers of detail work, from basic shapes to intricate patterns and expressions. Each animal goes through multiple iterations where we test visibility at different tile sizes and ensure they're distinguishable from similar animals. The color palette is carefully chosen to provide good contrast while maintaining the warm, inviting feel of the jungle theme.",
+      "image": "images/lof_new4.jpg"
+    },
+    {
+      "title": "Community Spotlight: Puzzle Masters",
+      "description": "Meet some of the most skilled players in our community and learn their strategies for mastering Critter Mahjong Solitaire.",
+      "date": "June 20, 2025",
+      "fullContent": "This month we're highlighting three exceptional players who have mastered the art of puzzle solving in Critter Mahjong Solitaire. PuzzleQueen has achieved perfect scores on all expert levels, developing advanced strategies for complex tile arrangements. AnimalLover has created comprehensive guides for new players, helping thousands understand the game mechanics and improve their skills. And SpeedSolver has set record completion times on our most challenging levels. We interviewed each player about their favorite animals, solving strategies, and tips for new players. Their insights have been invaluable in helping us understand what makes our game so engaging and how we can continue to improve the player experience.",
+      "image": "images/lof_new5.jpg"
+    },
+    {
+      "title": "Development Update: Future Features",
+      "description": "Get a sneak peek at upcoming features and improvements planned for Critter Mahjong Solitaire in the coming months.",
+      "date": "July 15, 2025",
+      "fullContent": "We're excited to share our development roadmap for the next six months! Q1 2025 will bring a comprehensive daily challenge system with unique puzzles and rewards. We're also working on a seasonal event system featuring special animal collections and themed levels. Q2 will introduce a story mode with narrative-driven missions following a young explorer's journey through the magical jungle. The story will unlock special animal companions and unique tile sets. We're also planning major visual upgrades including improved animations, particle effects, and more detailed background environments. Community feedback has been crucial in shaping these features, and we can't wait to see how players respond to these new additions.",
+      "image": "images/lof_new6.jpg"
+    }
+  ],
+  "contact": {
+    "email": "contact@gamerswiftpath.com",
+    "phone": "+61 2 9010 0019",
+    "address": "42 Hobart Street, Battery Point TAS 7004, Australia"
+  }
+}
